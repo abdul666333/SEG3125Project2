@@ -1,0 +1,56 @@
+.Step1{
+    padding-left: 10px;  
+
+}
+
+.Step2{
+    text-align: center;
+    margin-top: -40px;
+}
+
+.Step3{
+    text-align: right;
+    padding-right: 10px;
+    margin-top: -50px;
+}
+.Title{
+    color: black;
+    text-align: center;
+}
+
+.sessionmenu{
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+
+.Calender{
+    margin: 20px auto;
+    margin-right: 200px;
+}
+
+
+
+.Thankyou{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.Meet{
+    margin-top: 180px;
+    text-align: center;
+    margin-bottom: 180px;
+}
+
+
+.socks-img{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.Buttonhome{
+    margin-left: 660px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}

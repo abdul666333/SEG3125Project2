@@ -1,0 +1,54 @@
+
+.Bookpage{
+  background: gray;
+}
+
+.Title{
+    text-align: center;
+    color: black;
+    margin-top: 40px;
+}
+
+.sessions {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: grey;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .cards{
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+    color: #444;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  
+  
+
+  .cardsimg{
+    width: 720px;
+  }
+
+  

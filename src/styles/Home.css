@@ -1,0 +1,113 @@
+.home {
+  position: relative;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bookbutton{
+  background-color: gold;
+  
+}
+
+.header {
+  text-align: center;
+  color: white;
+  margin-bottom: 50px;
+}
+
+.h1{
+  text-align: center;
+  
+}
+
+.header button {
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.Title1{
+  color:white
+}
+
+.articlespart {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+
+.articles {
+  display: flex;
+  gap: 160px;
+  justify-content: center;
+}
+
+.programspart {
+  background: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.program {
+  padding: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  max-width: 300px;
+  text-align: center;
+  
+}
+
+.programsheader{
+  color: black;
+  padding: 20px;
+}
+
+.events {
+  background: white;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+  border: 2px solid gold;
+}
+
+.eventsheader {
+  margin-bottom: 40px; 
+}
+
+.eventspart {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.event {
+  display: flex;
+  align-items: center; 
+  padding: 20px;
+  border-radius: 8px;
+  width: calc(50% - 90px); 
+  margin-bottom: 40px; 
+}
+
+.date {
+  background-color: grey; 
+  color: gold; 
+  padding: 5px; 
+  width: 40px; 
+  text-align: center; 
+  margin-right: 2px; 
+}
+
+.details {
+  flex: 0.5; 
+}
+
+.details h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  margin-left: 1100;
+}

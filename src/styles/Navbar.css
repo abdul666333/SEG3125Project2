@@ -1,0 +1,41 @@
+.navbar {
+  width: 100%;
+  height: 100px;
+  background-color: #121619;
+  display: flex;
+  flex-direction: row;
+}
+
+
+.navbar img {
+  width: 70px;
+}
+
+
+.navbar a {
+  color: gold; 
+  text-decoration: none;
+  margin: 20px;
+}
+
+.navbar button {
+  background-color: transparent;
+  border: none;
+  color: gold; 
+  cursor: pointer;
+}
+
+
+  .navbar .leftSide {
+    padding-left: 50px;
+  }
+
+
+
+
+  .navbar .rightSide {
+    justify-content: flex-end;
+    padding-right: 50px;
+  }
+
+

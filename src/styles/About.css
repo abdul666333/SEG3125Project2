@@ -1,0 +1,107 @@
+.about {
+  position: relative;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: gray;
+
+  }
+  
+  
+  .abouttop {
+    width: 100%;
+    height: 200px; 
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .aboutbottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .aboutbottom p {
+    width: 1200px;
+    text-align: center;
+    color: black;
+    font-size: large;
+  }
+  
+  .about .aboutbottom h1 {
+    font-size: 70px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+  }
+
+
+ 
+  .about h1 {
+    text-align: center;
+    color: black;
+  }
+
+  .h1{
+    text-align: center;
+  }
+  
+  .programs {
+    background: gray;
+    padding: 20px;
+    border-radius: 8px;
+    width: 100%;
+    text-align: center;
+    
+  }
+
+  .programs h2{
+    color: black;
+  }
+  
+  .card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    max-width: 300px;
+    text-align: left;
+    transition: transform 0.2s;
+  }
+  
+
+  .cardimage {
+  width: 100%; 
+  height: 200px; 
+  object-fit: cover; 
+  }
+
+
+  .donors {
+    margin-top: 20px; 
+    margin-bottom: 20px;
+  }
+  
+  .donorimages {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .donorimage {
+    width: 200px; 
+    height: auto; 
+    border-radius: 8px;
+    object-fit: cover; 
+  }
+  .donors h2{
+    color: black;
+  }
+
+  .about h2{
+    text-align: center;
+  }
+
+  
